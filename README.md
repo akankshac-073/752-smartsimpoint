@@ -1,8 +1,6 @@
 # 752-smartsimpoint
 
-Modified files
+implementation (master branch)
 
-sift/recorder/smartsimpoint.h
 sift/recorder/smartsimpoint.cc
-sift/recorder/bbv_history.h
 sift/recorder/bbv_history.cc
